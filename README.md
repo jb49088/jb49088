@@ -2,7 +2,7 @@
 
 ### System Administration
 
-- [dotfiles](https://github.com/jb49088/dotfiles) - Personal dotfiles and configuration management multiple linux machines
+- [dotfiles](https://github.com/jb49088/dotfiles) - Personal dotfiles and configuration management for multiple linux machines
 - [backup_system](https://github.com/jb49088/backup_system) - Backup automation system built on Restic with dual-repository redundancy
 
 ### Data Engineering
