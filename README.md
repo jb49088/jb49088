@@ -8,6 +8,7 @@
 ### Data Engineering
 
 - [riven_sniper](https://github.com/jb49088/riven_sniper) - Multi-source market aggregator with median-based anomaly detection
+- [wfm_helper](https://github.com/jb49088/wfm_helper) - Convenience tool for viewing and managing warframe.market listings
 - [data_visualization](https://github.com/jb49088/data_visualization) - Series of data visualizations built with matplotlib and plotly
 
 ### CLI Utilities
