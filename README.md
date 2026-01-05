@@ -17,7 +17,7 @@
 
 ### Knowledge Management
 
-- [cybersecurity_notes](https://github.com/jb49088/cybersecurity_notes) - 1000+ interconnected cybersecurity notes
+- [cybersecurity_notes](https://github.com/jb49088/cybersecurity_notes) - 1000+ interconnected cybersecurity notes built in Obsidian, complete with links, tags, and scripts
 
 ### Games & Simulations
 
