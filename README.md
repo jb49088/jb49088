@@ -13,7 +13,7 @@
 ### CLI Utilities
 
 - [python_scripts](https://github.com/jb49088/python_scripts) - Personal productivity tools and workflow automation
-- [wfm_helper](https://github.com/jb49088/wfm_helper) - CLI frontend and automated listings manager for warfarme.market
+- [wfm_helper](https://github.com/jb49088/wfm_helper) - CLI frontend and automated listings manager for warframe.market
 
 ### Knowledge Management
 
