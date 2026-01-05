@@ -15,6 +15,11 @@
 
 - [python_scripts](https://github.com/jb49088/python_scripts) - Personal productivity tools and workflow automation
 
+### Knowledge Management
+
+-
+[cybersecurity_notes](https://github.com/jb49088/cybersecurity_notes) - 1000+ interconnected cybersecurity notes
+
 ### Games & Simulations
 
 - [alien_invasion](https://github.com/jb49088/alien_invasion) -  Space invaders style game built with pygame
