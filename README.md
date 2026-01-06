@@ -1,4 +1,3 @@
-# Projects
 
 ### System Administration
 
