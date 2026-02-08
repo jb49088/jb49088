@@ -4,6 +4,10 @@
 - [dotfiles](https://github.com/jb49088/dotfiles) - Personal dotfiles and configuration management for multiple linux machines
 - [backup_system](https://github.com/jb49088/backup_system) - Backup automation system built on Restic with dual-repository redundancy
 
+### Security Tools
+
+- [port_scanner](https://github.com/jb49088/port_scanner) - CLI-based IP address prober
+
 ### Data Engineering
 
 - [riven_sniper](https://github.com/jb49088/riven_sniper) - Multi-source market aggregator with median-based anomaly detection
