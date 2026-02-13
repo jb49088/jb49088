@@ -7,6 +7,9 @@
 ### Security Tools
 
 - [port_scanner](https://github.com/jb49088/port_scanner) - CLI-based IP reconnaissance and probing tool
+
+### Networking Tools 
+
 - [ping](https://github.com/jb49088/ping) - Custom ping implementation using raw ICMP sockets
 
 ### Data Engineering
