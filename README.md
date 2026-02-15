@@ -6,7 +6,7 @@
 
 ### Security Tools
 
-- [port_scanner](https://github.com/jb49088/port_scanner) - CLI-based IP reconnaissance and probing tool
+- [port_scanner](https://github.com/jb49088/port_scanner) - TCP half-open IP reconnaissance and probing tool
 
 ### Networking Tools 
 
