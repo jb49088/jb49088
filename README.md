@@ -10,7 +10,7 @@
 
 ### Networking Tools 
 
-- [ping](https://github.com/jb49088/ping) - Custom ping implementation using raw ICMP sockets
+- [ping](https://github.com/jb49088/ping) - Host availability and RTT tester implemented with raw ICMP sockets
 
 ### Data Engineering
 
