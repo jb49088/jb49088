@@ -30,3 +30,7 @@
 
 - [alien_invasion](https://github.com/jb49088/alien_invasion) -  Space invaders style game built with pygame
 - [fish_tank](https://github.com/jb49088/fish_tank) - Double-buffered, grid-based, object-oriented terminal animation
+
+### Completed CTFs
+
+- [The Planets: Mercury](https://www.vulnhub.com/entry/the-planets-mercury,544/)
