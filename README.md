@@ -33,4 +33,4 @@
 
 ### Completed CTFs
 
-- [The Planets: Mercury](https://www.vulnhub.com/entry/the-planets-mercury,544/)
+- [The Planets: Mercury](https://www.vulnhub.com/entry/the-planets-mercury,544/) - SQL injection -> Path hijack
