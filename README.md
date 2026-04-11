@@ -1,3 +1,4 @@
+[Certifications](https://www.credly.com/users/j-b.533738b8) ------------------------------------------------------------------------------ [Hack The Box](https://app.hackthebox.com/users/3226882)
 
 ### System Administration
 
