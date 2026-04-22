@@ -21,7 +21,8 @@
 
 ### CLI Utilities
 
-- [python_scripts](https://github.com/jb49088/python_scripts) - Personal productivity tools and workflow automation
+- [python_scripts](https://github.com/jb49088/python_scripts) - Python based personal productivity tools and workflow automation
+- [bash_scripts](https://github.com/jb49088/bash_scripts) - Bash based personal productivity tools and workflow automation
 - [wfm](https://github.com/jb49088/wfm) - Unofficial REPL-style CLI frontend and automated listings manager for warframe.market
 
 ### Knowledge Management
