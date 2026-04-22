@@ -3,7 +3,7 @@
 ### System Administration
 
 - [dotfiles](https://github.com/jb49088/dotfiles) - Personal dotfiles and configuration management for multiple linux machines
-- [backup_script](https://github.com/jb49088/backup_script) - Backup automation script built on Restic with dual-repository redundancy
+- [backup_script](https://github.com/jb49088/backup_script) - Backup automation script built on Restic with retention policies and dual-repository redundancy
 - [setup_script](https://github.com/jb49088/setup_script) - Post-installation setup automation script for environment replication
 
 ### Security Tools
