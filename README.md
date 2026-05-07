@@ -7,8 +7,9 @@
 - [backup_script](https://github.com/jb49088/backup_script) - Backup automation script built on Restic with retention policies and dual-repository redundancy
 - [setup_script](https://github.com/jb49088/setup_script) - Post-installation setup automation script for environment replication
 
-### Security Tools
+### Security Exploits/Tools
 
+- [poc](https://github.com/jb49088/poc) - Collection of demonstraiton exploits to prove specific vulnerabilites
 - [port_scanner](https://github.com/jb49088/port_scanner) - Asynchronous TCP half-open IP reconnaissance and probing tool
 
 ### Networking Tools 
