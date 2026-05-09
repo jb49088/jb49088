@@ -31,6 +31,10 @@
 
 - [cybersecurity_notes](https://github.com/jb49088/cybersecurity_notes) - 1,000+ interconnected cybersecurity notes built in Neovim, complete with tags and links
 
+### Hardware & Firmware
+
+- [qgmlwy](https://github.com/jb49088/qgmlwy) - Source for custom QMK compiled keyboard layout
+
 ### Games & Simulations
 
 - [alien_invasion](https://github.com/jb49088/alien_invasion) -  Space invaders style game built with pygame
